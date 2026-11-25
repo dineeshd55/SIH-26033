@@ -1,4 +1,4 @@
-#### Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date: 25.11.2026
 ## Reference Number: 26015651
 ## Name: Dineesh Anandan
