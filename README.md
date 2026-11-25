@@ -1,4 +1,4 @@
-# Smart India Hackathon Workshop
+## Smart India Hackathon Workshop
 # Date: 25.11.2026
 ## Reference Number: 26015651
 ## Name: Dineesh Anandan
@@ -37,6 +37,8 @@ In Indian agricultural supply chains, fresh produce passes through 4 to 6 layers
 
 # <u>Technical Approach</u>
 The system follows a cloud-native microservices architecture designed for high availability in low bandwidth rural networks (offline-first local caching with background sync) and real-time order matching in urban clusters.
+<img width="1600" height="842" alt="SIH_26033_Technical_Architecture_v4" src="https://github.com/user-attachments/assets/fc093a0d-135f-4635-bc2f-942a4ac25603" />
+
 
 ## <u>Technologies to be Used:</u>
 * **Frontend & Mobile:** Flutter (Android/iOS), React.js (Web Portal), SQLite Offline Sync, Bhashini Voice API — Offline-capable farmer listing app with regional voice input; consumer & B2B order dashboard.
